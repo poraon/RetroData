@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "a1ec",
+      "name": "Sunny",
+      "email": "sunny@test.com",
+      "password": "sunny@123"
+    },
+    {
+      "id": "850b",
+      "name": "Sunny",
+      "email": "sunny@test.com",
+      "password": "sunny@123"
+    },
+    {
+      "id": "98f6",
+      "name": "Anil",
+      "email": "anil@test.com",
+      "password": "anil@123"
+    },
+    {
+      "id": "a4f5",
+      "email": "praveen@test.com",
+      "name": "Praveen",
+      "password": "Qwerty@11"
+    },
+    {
+      "id": "1e73",
+      "email": "raj@test.com",
+      "name": "Raj",
+      "password": "Qwert44"
+    },
+    {
+      "id": "a303",
+      "email": "tony@test.com",
+      "name": "tony",
+      "password": "tony@123"
+    },
+    {
+      "id": "eb94",
+      "email": "krish@gmail.com",
+      "name": "Krish",
+      "password": "krish@11"
+    },
+    {
+      "id": "659e",
+      "name": "Arvind",
+      "email": "arvind@test.com",
+      "password": "arvind@123"
+    },
+    {
+      "id": "6972",
+      "email": "pratik@test.com",
+      "name": "Pratik",
+      "password": "pratik@11"
+    },
+    {
+      "id": "5ca5",
+      "email": "krupali@test.com",
+      "name": "Krupali",
+      "password": "krupali@11"
+    },
+    {
+      "id": "c4ff",
+      "email": "dyanesh@test.com",
+      "name": "Dyanesh",
+      "password": "1234"
+    },
+    {
+      "id": "4c30",
+      "email": "prabhat@test.com",
+      "name": "prabhat kujur",
+      "password": "prabhat@11"
+    },
+    {
+      "id": "a98f",
+      "email": "atri@test.com",
+      "name": "atri",
+      "password": "test@11"
+    },
+    {
+      "id": "aa75",
+      "email": "meena@test.com",
+      "name": "meena",
+      "password": "meena@11"
+    },
+    {
+      "id": "0506",
+      "email": "parash@test.com",
+      "name": "parash",
+      "password": "parash@11"
+    },
+    {
+      "id": "f18a",
+      "email": "himesh@test.com",
+      "name": "himesh",
+      "password": "homesh@11"
+    },
+    {
+      "id": "4619",
+      "email": "abc@test.com",
+      "name": "abc",
+      "password": "abc@123"
+    },
+    {
+      "id": "b2f1",
+      "email": "abc@test.com",
+      "name": "abc",
+      "password": "abc@123"
+    },
+    {
+      "id": "6a43",
+      "email": "meena@test.com",
+      "name": "meena",
+      "password": "Qwerty@11"
+    },
+    {
+      "id": "0659",
+      "email": "meena@test.com",
+      "name": "meena",
+      "password": "Qwerty@11"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "1c51",
+      "name": "KFC",
+      "address": "Pune",
+      "phone": "9971845814"
+    },
+    {
+      "id": "3c75",
+      "name": "seasons ",
+      "address": "Pune",
+      "phone": "89327249054"
+    }
+  ]
+}
